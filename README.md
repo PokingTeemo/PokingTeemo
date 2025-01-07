@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 </p>
 
-- **CI/CD**: Github Actions, AWS CodePipeline 등
-- **클라우드 인프라 설계**: EC2, S3, RDS, VPC, IAM, CloudFront, Route53, API Gateway, ElastiCache(Redis) 등
+- **CI/CD**: Github Actions
+- **클라우드 인프라 설계**: EC2, S3, RDS, CloudFront, Route53, API Gateway, ElastiCache(Redis), Amazon MQ(Rabbit MQ) 등
 - **컨테이너 & 오케스트레이션**: Docker, (학습 중: Kubernetes)
 - **언어**: Java, Python, C
 - **모니터링 & 로깅**: Prometheus, Grafana
@@ -110,8 +110,6 @@
 - **LinkedIn**: [LinkedIn Profile](#)  <!-- 필요 시 링크 삽입 -->
 
 ---
-
-<!-- 필요 시 GitHub 통계 배너 등 추가 가능 -->
 <!-- 예: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
