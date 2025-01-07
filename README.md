@@ -4,7 +4,7 @@
 
 - 동국대학교 서울캠퍼스 정보통신공학과 전공, 2025년 8월 졸업 예정
 - 현재 클라우드 엔지니어/개발자를 목표로 다양한 AWS 서비스와 CI/CD 파이프라인 구축에 도전하고 있습니다.
-- 최신 기술 트렌드에 관심이 많으며, DevOps, 클라우드 인프라 구축에 대한 프로젝트 경험을 적극적으로 쌓고 있습니다.
+- DevOps, 클라우드 인프라 구축에 대한 프로젝트 경험을 적극적으로 쌓고 있습니다.
 
 ---
 
@@ -20,7 +20,7 @@
 </p>
 
 - **CI/CD**: Github Actions
-- **클라우드 인프라 설계**: EC2, S3, RDS, CloudFront, Route53, API Gateway, ElastiCache(Redis), Amazon MQ(Rabbit MQ) 등
+- **클라우드 인프라 설계**: EC2, S3, RDS, CloudFront, Route53, ALB, ElastiCache(Redis), Amazon MQ(Rabbit MQ) 등
 - **컨테이너 & 오케스트레이션**: Docker, (학습 중: Kubernetes)
 - **언어**: Java, Python, C
 - **모니터링 & 로깅**: Prometheus, Grafana
