@@ -1,6 +1,3 @@
-<!-- 상단 배너 혹은 이미지를 첨부하고 싶다면 여기에 추가 가능 -->
-<!-- 예) <img src="https://github.com/사용자명/사용자명/blob/main/banner.png" alt="banner" /> -->
-
 # 안녕하세요, 클라우드 엔지니어를 꿈꾸는 정윤섭입니다! 👋
 
 ## About Me
@@ -107,17 +104,12 @@
 
 - **이메일**: ys990728@naver.com, yoonsub1234@gmail.com
 - **GitHub**: [github.com/PokingTeemo](https://github.com/PokingTeemo)  <!-- 실제 사용자명으로 교체 -->
-- **LinkedIn**: [LinkedIn Profile](#)  <!-- 필요 시 링크 삽입 -->
 
 ---
 <!-- 예: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PokingTeemo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PokingTeemo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-감사합니다!  
-앞으로도 다양한 프로젝트와 학습 내용, 개인적인 기록 등을 꾸준히 업데이트하며  
-**클라우드 엔지니어로서의 성장 과정**을 GitHub에 담아보겠습니다.  
