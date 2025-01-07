@@ -105,8 +105,8 @@
 
 ## Contact
 
-- **이메일**: example@email.com
-- **GitHub**: [github.com/정윤섭](https://github.com/사용자명)  <!-- 실제 사용자명으로 교체 -->
+- **이메일**: ys990728@naver.com, yoonsub1234@gmail.com
+- **GitHub**: [github.com/PokingTeemo](https://github.com/PokingTeemo)  <!-- 실제 사용자명으로 교체 -->
 - **LinkedIn**: [LinkedIn Profile](#)  <!-- 필요 시 링크 삽입 -->
 
 ---
