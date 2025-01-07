@@ -5,16 +5,15 @@
 
 ## About Me
 
-- 동국대학교 정보통신공학과 전공, 2025년 8월 졸업 예정
+- 동국대학교 서울캠퍼스 정보통신공학과 전공, 2025년 8월 졸업 예정
 - 현재 클라우드 엔지니어/개발자를 목표로 다양한 AWS 서비스와 CI/CD 파이프라인 구축에 도전하고 있습니다.
-- 최신 기술 트렌드에 관심이 많으며, AI와 클라우드의 융합에 대한 프로젝트 경험을 적극적으로 쌓고 있습니다.
+- 최신 기술 트렌드에 관심이 많으며, DevOps, 클라우드 인프라 구축에 대한 프로젝트 경험을 적극적으로 쌓고 있습니다.
 
 ---
 
 ## Skills & Tools
 
 <p>
-  <!-- 예시: 아이콘 및 뱃지를 활용하여 표현할 수 있음 -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Github_Action-2088FF?style=flat&logo=github-actions&logoColor=white" />
