@@ -103,7 +103,6 @@
 ## Contact
 
 - **이메일**: ys990728@naver.com, yoonsub1234@gmail.com
-- **GitHub**: [github.com/PokingTeemo](https://github.com/PokingTeemo)  <!-- 실제 사용자명으로 교체 -->
 
 ---
 <!-- 예: 
