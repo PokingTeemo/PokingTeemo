@@ -29,11 +29,12 @@
 
 ## Education & Certification
 
-- **동국대학교 정보통신공학과** (2019.03 ~ 2025.08 예정)  
-  - GPA: 3.86/4.5
+- **동국대학교 정보통신공학과** (2019.03 ~ 2026.01 예정)  
+  - GPA: 3.83/4.5
 - **카카오테크 부트캠프(KTB) 1기** (2024.07 ~ 2024.12)  
   - 클라우드 개발자 양성 과정 수료
 - **자격증 & 수상**
+  - AWS Certified Developer Associate DVA-C02(2025.12.17)  
   - AWS Certified Solutions Architect (SAA-C03) (2025.05)  
   - AWS Certified Cloud Practitioner (CLF-C02) (2025.01)
   - 카카오테크 부트캠프 해커톤 본상 (2024.09)
