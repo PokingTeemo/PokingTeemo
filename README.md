@@ -21,10 +21,10 @@
   </a>
 </p>
 
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect Associate
-- AWS Certified Developer Associate
-- HashiCorp Certified: Terraform Associate 004
+- **HashiCorp Certified:Terraform Associate(004) HCTA-400(2026.04.06)**
+- **AWS Certified Developer Associate DVA-C02(2025.12.17)**
+- **AWS Certified Solutions Architect Associate SAA-C03(2025.05.07)**
+- **AWS Certified Cloud Practitioner CLF-C02(2025.01.08)**
 
 ---
 
