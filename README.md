@@ -4,6 +4,15 @@
 
 ---
 
+## About Me
+
+- 동국대학교 서울캠퍼스 정보통신공학과 재학
+- 클라우드 엔지니어 및 개발자를 목표로 AWS 기반 인프라 구축과 운영을 학습하고 있습니다.
+- GitHub Actions, Docker, AWS를 활용한 CI/CD 파이프라인 구축 경험이 있습니다.
+- 3계층 아키텍처, 비동기 메시징 구조, 모니터링 환경 구성 프로젝트를 수행했습니다.
+
+---
+
 ## Certifications
 
 <p>
@@ -25,17 +34,6 @@
 - **AWS Certified Developer Associate DVA-C02(2025.12.17)**
 - **AWS Certified Solutions Architect Associate SAA-C03(2025.05.07)**
 - **AWS Certified Cloud Practitioner CLF-C02(2025.01.08)**
-
----
-
-## About Me
-
-- 동국대학교 서울캠퍼스 정보통신공학과 재학
-- 클라우드 엔지니어 및 개발자를 목표로 AWS 기반 인프라 구축과 운영을 학습하고 있습니다.
-- GitHub Actions, Docker, AWS를 활용한 CI/CD 파이프라인 구축 경험이 있습니다.
-- 3계층 아키텍처, 비동기 메시징 구조, 모니터링 환경 구성 프로젝트를 수행했습니다.
-
----
 
 ## Skills & Tools
 
