@@ -7,24 +7,24 @@
 ## Certifications
 
 <p>
-  <a href="AWS_CLF_CREDLY_URL" target="https://www.credly.com/badges/a844a7a6-437d-4d65-87fa-a2839056036a/public_url">
+  <a href="https://www.credly.com/badges/a844a7a6-437d-4d65-87fa-a2839056036a/public_url">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   </a>
-  <a href="AWS_SAA_CREDLY_URL" target="_blank">
+  <a href="https://www.credly.com/badges/e6a247d4-cb4a-4de9-82e0-407abcb0d3ab/public_url">
     <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   </a>
-  <a href="AWS_DVA_CREDLY_URL" target="_blank">
+  <a href="https://www.credly.com/badges/66e7aa78-1cde-481b-8f28-a8e76fa95c25/public_url">
     <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/66e7aa78-1cde-481b-8f28-a8e76fa95c25/public_url" target="_blank">
+  <a href="TERRAFORM_CREDLY_URL">
     <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20(004)-844FBA?style=flat&logo=terraform&logoColor=white" />
   </a>
 </p>
 
-- HashiCorp Certified: Terraform Associate 004
-- AWS Certified Developer Associate
-- AWS Certified Solutions Architect Associate
 - AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect Associate
+- AWS Certified Developer Associate
+- HashiCorp Certified: Terraform Associate 004
 
 ---
 
@@ -128,7 +128,7 @@
 ---
 
 ### 5. LLM 기반 대화형 스마트홈 개인비서
-**기간**: 2024.03 ~ 2024.10**
+**기간**: 2024.03 ~ 2024.10
 
 - 프로젝트 팀장 수행
 - Python Flask 기반 백엔드 서버 개발
