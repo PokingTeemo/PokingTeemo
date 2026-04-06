@@ -7,7 +7,7 @@
 ## Certifications
 
 <p>
-  <a href="AWS_CLF_CREDLY_URL" target="_blank">
+  <a href="AWS_CLF_CREDLY_URL" target="https://www.credly.com/badges/a844a7a6-437d-4d65-87fa-a2839056036a/public_url">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   </a>
   <a href="AWS_SAA_CREDLY_URL" target="_blank">
