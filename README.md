@@ -34,6 +34,7 @@
 - **카카오테크 부트캠프(KTB) 1기** (2024.07 ~ 2024.12)  
   - 클라우드 개발자 양성 과정 수료
 - **자격증 & 수상**
+  - HashiCorp Certified:Terraform Associate(004) HCTA-400(2026.04.06)
   - AWS Certified Developer Associate DVA-C02(2025.12.17)  
   - AWS Certified Solutions Architect (SAA-C03) (2025.05)  
   - AWS Certified Cloud Practitioner (CLF-C02) (2025.01)
